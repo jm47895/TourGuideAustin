@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#2b1d0e</color>
+    <color name="colorPrimary">#993300</color>
+    <color name="colorTabBackground">#ff8038</color>
+    <color name="backgroundPrimary">#f5deb3</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorSelectTabText">#ffffff</color>
+    <color name="colorIndexCard">#ffffff</color>
+    <color name="colorUnSelectTabText">#d3d3d3</color>
+    <color name="semi_tansparent_gray">#BFd3d3d3</color>
+</resources>

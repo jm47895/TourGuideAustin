@@ -1,0 +1,149 @@
+<resources>
+    <string name="tourAustin">Tour Austin</string>
+    <!--Museums-->
+    <string name="bobBullock">Bob Bullock Museum</string>
+    <string name="bobBullockDescription">The Bullock Texas State History Museum, is a history museum in Austin, Texas. The museum is owned by the Texas State Preservation Board. Its stated mission is to tell "the Story of Texas." (Click any picture for directions and more info)</string>
+    <string name="bobBullockMap">"https://www.google.com/maps/search/?api=1&amp;query=Bob+Bullock+Museum"</string>
+    <string name="blantonArt">Blanton Museum of Art</string>
+    <string name="blantonDescription">As the primary art collection for the city of Austin, the Blanton Museum of Art is a major resource for the community. With nearly 18,000 works in the collection, the Blanton showcases art from across the ages, from ancient greek pottery to abstract expressionism.</string>
+    <string name="blantonMap">"https://www.google.com/maps/search/?api=1&amp;query=Blanton+Museum+of+Art"</string>
+    <string name="elisabetNey">Elisabet Ney Museum</string>
+    <string name="elisabetDescription">The Elisabet Ney Museum is a museum located in Austin, Texas, United States. It is housed in the former studio of sculptor Elisabet Ney and is dedicated to showcasing her life and works.</string>
+    <string name="elisabetMap">"https://www.google.com/maps/search/?api=1&amp;query=Elisabet+Ney+Museum"</string>
+    <string name="theContemporary">The Contemporary Austin</string>
+    <string name="contemporaryDescription">Showcasing two renowned and architecturally unique locations, The Contemporary Austin brings multidisciplinary exhibitions, engaging programs, and enticing special events to the city\'s visual arts landscape.</string>
+    <string name="contemporaryMap">"https://www.google.com/maps/search/?api=1&amp;query=The+Contemporary"</string>
+    <string name="mexicArte">Mexic-Arte Museum</string>
+    <string name="mexicDescription">Mexic-Arte Museum is dedicated to cultural enrichment and education through the collection, preservation and presentation of traditional and contemporary Mexican, Latino, and Latin American art and culture to promote dialogue and develop understanding for visitors of all ages.</string>
+    <string name="mexicMap">"https://www.google.com/maps/search/?api=1&amp;query=Mexic-Arte+Museum"</string>
+    <string name="harryRansom">Harry Ransom Center</string>
+    <string name="harryDescription">The Harry Ransom Center is an archive, library and museum at the University of Texas at Austin, specializing in the collection of literary and cultural artifacts from the United States and Europe for the purpose of advancing the study of the arts and humanities.</string>
+    <string name="harryMap">"https://www.google.com/maps/search/?api=1&amp;query=Harry+Ransom+Center"</string>
+    <string name="lbjLibrary">Lyndon Baines Johnson Library and Museum</string>
+    <string name="lbjDescription">Situated on a 30-acre site on The University of Texas campus in Austin, Texas, the Library houses 45 million pages of historical documents, 650,000 photos and 5,000 hours of recordings from President Johnson\'s political career, including about 643 hours of his recorded telephone conversations.</string>
+    <string name="lbjMap">"https://www.google.com/maps/search/?api=1&amp;query=Lyndon+Baines+Johnson+Library"</string>
+    <string name="thinkery">Thinkery: Austin Children\'s Museum</string>
+    <string name="thinkeryDescription">Thinkery is Austin’s home for “why” and “how.” A place where science and families play side by side. Where people connect with ideas by doing, making and experiencing. It’s a foundry for a new generation of innovators and creative problem solvers. And it’s a heck of a good time.</string>
+    <string name="thinkeryMap">"https://www.google.com/maps/search/?api=1&amp;query=Thinkery"</string>
+    <!--Restaurants-->
+    <string name="twentyFourDinerDescription">24 Diner offers wines &amp; big helpings of farm-to-table comfort food at all hours of the day or night. (Click any picture for directions and more info)</string>
+    <string name="twentyFourMap">"https://www.google.com/maps/search/?api=1&amp;query=24+Diner+Austin"</string>
+    <string name="abgbDescription">Austin Beer Garden Brewery has great beer, great music, and great food.</string>
+    <string name="abgbMap">"https://www.google.com/maps/search/?api=1&amp;query=Austin+Beer+Garden+Brewery"</string>
+    <string name="austinLandAndCattleDescription">Austin Land and Cattle offers hand-cut aged beef &amp; chops plus sides, desserts &amp; cocktails served in a dark, old-fashioned setting.</string>
+    <string name="austinLandMap">"https://www.google.com/maps/search/?api=1&amp;query=Austin+Land+and+Cattle"</string>
+    <string name="barleySwineDescription">Barley Swine is a foodie hot spot serving a fixed-price menu with seasonal American small plates &amp; a deep beer list.</string>
+    <string name="barleyMap">"https://www.google.com/maps/search/?api=1&amp;query=Barley+Swine+Austin"</string>
+    <string name="chezZeeDescription">Chez Zee is a family-friendly American restaurant known for its desserts &amp; weekend brunch</string>
+    <string name="chezZMap">"https://www.google.com/maps/search/?api=1&amp;query=Chez+Zee+Austin"</string>
+    <string name="chezNousDescription">Chez Nous serves traditional french fare along with a selection of wine &amp; beer served in a Paris-like setting.</string>
+    <string name="chezNMap">"https://www.google.com/maps/search/?api=1&amp;query=Chez+Nous+Austin"</string>
+    <string name="chuysDescription">Chuy\'s is a fun and funky Tex-Mex restaurant that serves authentic and fresh food in an atmosphere that appeals to everyone.</string>
+    <string name="chuysMap">"https://www.google.com/maps/search/?api=1&amp;query=Chuy's+Austin"</string>
+    <string name="kerbeyLaneDescription">Kerbey Lane serves good, homemade quality food that is local, healthy and affordable while providing a welcoming and memorable experience to all who come through their doors.</string>
+    <string name="kerbeyMap">"https://www.google.com/maps/search/?api=1&amp;query=Kerbey+Lane+Austin"</string>
+    <string name="komeDescription">Kome is a trendy sushi joint with home-style Japanese plates in a stylish, bamboo-accented space.</string>
+    <string name="komeMap">"https://www.google.com/maps/search/?api=1&amp;query=Kome+Austin"</string>
+    <string name="pintHouseDescription">Pint House Pizza serves award-winning beer and hand-crafted pizza in a warm and casual setting.</string>
+    <string name="pintHouseMap">"https://www.google.com/maps/search/?api=1&amp;query=Pint+House+Pizza"</string>
+    <string name="torchiesDescription">Torchy\'s offers damn good tacos with an Austin twist.</string>
+    <string name="torchiesMap">"https://www.google.com/maps/search/?api=1&amp;query=Torchy's+Tacos+Austin"</string>
+    <string name="pTerrysDescription">P\.Terry\'s is an American fast-food restaurant chain that serves burgers and fries and uses all organic ingredients.</string>
+    <string name="pTerrysMap">"https://www.google.com/maps/search/?api=1&amp;query=P.Terry's"</string>
+    <!--Outdoor activities-->
+    <string name="mountBonell">Mount Bonnell</string>
+    <string name="mountBonnellDescription">Mount Bonnell, also known as Covert Park, is a prominent point alongside the Lake Austin portion of the Colorado River in Austin, Texas. It has been a popular tourist destination since the 1850s. </string>
+    <string name="mountBounellMap">"https://www.google.com/maps/search/?api=1&amp;query=Mount+Bonnell+Austin"</string>
+    <string name="bartonSprings">Barton Springs Pool</string>
+    <string name="bartonDescription">Barton Springs Pool is a recreational outdoor swimming pool that is filled entirely with water from nearby natural springs. It is located on the grounds of Zilker Park in Austin, Texas. (Click any picture for directions and more info)</string>
+    <string name="bartonMap">"https://www.google.com/maps/search/?api=1&amp;query=Barton+Springs+Pool+Austin"</string>
+    <string name="congressBridge">Congress Bridge</string>
+    <string name="congressBridgeDescription">Each night between 5PM to 7PM, many bat enthusiasts and watchers stake out lookout spots below and above the South Congress Bridge. It’s one of the best places to catch a direct view of the South Congress Bridge Bats, also known as Brazilian free-tailed bats, emerging and shooting out for their nightly feeding and aerial show.</string>
+    <string name="congressMap">"https://www.google.com/maps/search/?api=1&amp;query=Congress+Bridge+Austin"</string>
+    <string name="zilkerPark">Zilker Park</string>
+    <string name="zilkerParkDescription">Zilker Metropolitan Park is considered "Austin's most-loved park." This 351-acre metropolitan park is home to a variety of recreation opportunities, facilities and special events for individuals and families.</string>
+    <string name="zilkerMap">"https://www.google.com/maps/search/?api=1&amp;query=Zilker+Park+Austin"</string>
+    <string name="hamiltonPool">Hamilton Pool</string>
+    <string name="hamiltonPoolDescription">Hamilton Pool Preserve is a historic swimming hole which was designated a preserve by the Travis County Commissioner\'s Court in 1990. Located 3/4 mile upstream from its confluence with the Pedernales River, Hamilton Creek spills out over limestone outcroppings to create a 50 foot waterfall as it plunges into the head of a steep box canyon.</string>
+    <string name="hamiltonPoolMap">"https://www.google.com/maps/search/?api=1&amp;query=Hamilton+Pool"</string>
+    <string name="cathedralJunk">The Cathedral of Junk</string>
+    <string name="cathedralDescription">The Cathedral of Junk is a gigantic cathedral sculpture made up of just about every kind of found object you could possibly think of: tools, dolls, toys, car parts, toilets, building materials, signs, and the list goes on.</string>
+    <string name="cathedralMap">"https://www.google.com/maps/search/?api=1&amp;query=Cathedral+of+Junk+Austin"</string>
+    <string name="threeSixtyBridge">360 Bridge</string>
+    <string name="threeSixtyDescription">The Lake Austin 360 bridge overlook at Pennybacker Bridge provides one of the best and quintessential views of the area.</string>
+    <string name="threeSixtyOverlook">"https://www.google.com/maps/search/?api=1&amp;query=Pennybacker+Bridge+Overlook"</string>
+    <string name="ladyBirdLake">Lady Bird Lake</string>
+    <string name="ladyBirdDescription">Lady Bird Lake stretches 416 acres in downtown Austin, TX. The lake serves as the best place in Austin to kayak, canoe and stand up paddle board.</string>
+    <string name="ladyBirdMap">"https://www.google.com/maps/search/?api=1&amp;query=Lady+Bird+Lake"</string>
+    <string name="baylorGraffiti">Austin Graffiti Park at Castle Hill</string>
+    <string name="baylorGraffitiDescription">Austin Graffiti Park is a colorful blast! Occupying the remains of an old building foundation, the 3 story graffiti art park is the largest in the nation, and brings tourist, renowned artist and local taggers together to make their mark and appreciate an ever-changing canvas.</string>
+    <string name="baylorGraffitiMap">"https://www.google.com/maps/search/?api=1&amp;query=Graffiti+Park+at+Castle+Hill"</string>
+    <string name="outDoorEvents">Outdoor Events</string>
+    <string name="outdoorEventsDesciption">Please check out the events tab for more information on outside events!</string>
+    <!--Events throughout the year-->
+    <string name="leGarageSale">January: Le Garage Sale</string>
+    <string name="leGarageDescription">Le Garage Sale is a semi-annual event that pulls the creme de la creme of Austin\'s independent boutiques and local labels under one roof where everything is on sale. (Click any picture for directions and more info)</string>
+    <string name="leGarageWebsite">https://legaragesale.net/</string>
+    <string name="austinMarathon">February: Austin Marathon and Half Marathon</string>
+    <string name="austinMarathonDescription"> The Austin Marathon, Half Marathon, and 5K fills Austin\'s streets with over 17,000 runners, 75,000 visitors to the Health &amp; Fitness Expo, concluding with Austin style Finish Line Festival complete with 100,000 spectators.</string>
+    <string name="austinMarathonWebsite">https://youraustinmarathon.com/</string>
+    <string name="sxsw">March: SXSW Music, Film, and Conference Festival</string>
+    <string name="sxswDescription">South by Southwest is an annual conglomerate of film, interactive media, and music festivals and conferences that take place in mid-March.</string>
+    <string name="sxswWebsite">https://www.sxsw.com/</string>
+    <string name="moonTower">April: Moontower Comedy and Oddity Festival</string>
+    <string name="moonTowerDescription">Some of the best names in comedy? Yes – from right here in Austin and across the country, all set for a weekend of breaking your funny bone into a million pieces.</string>
+    <string name="moonTowerWebsite">http://www.austintheatre.org/moontower-comedy/</string>
+    <string name="pecanStreetFestival">May: Pecan Street Festival</string>
+    <string name="pecanStreetDescription">The Pecan Street Festival is a free two-day arts festival held twice yearly in downtown Austin’s Sixth Street Historic District. </string>
+    <string name="pecanStreetWebsite">http://pecanstreetfestival.org/</string>
+    <string name="republicOfTexasBikerRally">June: Republic of Texas Biker Rally</string>
+    <string name="rotDescription">The ROT Rally is held at the Travis County Expo Center, and is widely known for its downtown Austin bike parade. The ROT rally also features live music.</string>
+    <string name="rotWebsite">http://www.rotrally.com/</string>
+    <string name="fourthOfJuly">July: Austin Independence Day Celebration</string>
+    <string name="fourthOfJulyDescription">Austin Symphony Orchestra hosts on July 4th for the largest Independence Day Celebration in the state. Families head down to Vic Mathias Shores every July 4th for an amazing event complete with a fireworks display over the city skyline backed by symphonic patriotic classics. </string>
+    <string name="fourthOfJulyWebsite">https://www.austintexas.org/events/</string>
+    <string name="hotSauceFestival">August: The Chronicle Hot Sauce Festival</string>
+    <string name="hotSauceDescription">A hot sauce competition and food event that features tastings from local restaurants, culinary demonstrations, sauces for sale, cookbooks, peppers and more, and of course live music.</string>
+    <string name="hotSauceWebsite">https://www.austinchronicle.com/hot-sauce/</string>
+    <string name="austinMuseum">September: Austin Museum Day</string>
+    <string name="austinMuseumDescription">Austin Museum Day is day to enjoy FREE access to tons of fun exhibits and activities for visitors of all ages at more than 35 Austin-area museums. Museum Day visitors will enjoy all variety of special programming including guided tours, hands-on activities, and more.</string>
+    <string name="austinMuseumWebsite">http://www.austinmuseums.org/</string>
+    <string name="austinCityLimits">Austin City Limits Music Festival</string>
+    <string name="aclDescription">The Austin City Limits Music Festival is an annual music festival held in Zilker Park in Austin, Texas on two consecutive three-day weekends featuring an impressive list of artist from around the globe.</string>
+    <string name="aclWebsite">https://www.aclfestival.com/</string>
+    <string name="funFunFun">November: Fun Fun Fun Fest</string>
+    <string name="funFunDescription">In 2006, Fun Fun Fun Fest is an independent festivals for music lovers and music makers in the United States renowned for its musical lineup, as well as its collection of comedy, food, action sports, and poster art experiences.</string>
+    <string name="funFunWebsite">https://funfunfunfest.com/</string>
+    <string name="trailLights">December: Trail of Lights</string>
+    <string name="trailOfLightsDescription">The Austin Trail of Lights is a community-wide celebration of the unique spirit and people that make up Austin. Holiday activities, more than 40 displays, &amp;     2 million lights, make up a deeply cherish local tradition.</string>
+    <string name="trailOfLightsWebsite">https://austintrailoflights.org/</string>
+    <!--Nightlife-->
+    <string name="sixthStreet">6th Street</string>
+    <string name="sixthDescription">Sixth Street is one of the most iconic streets in Austin. It’s the epicenter of what made Austin the “Live Music Capital of the World.” There are three sections of Sixth Street in Austin: West, East and what locals refer to as Dirty. (Click any picture for directions and more info)</string>
+    <string name="sixthMap">"https://www.google.com/maps/search/?api=1&amp;query=6th+Street"</string>
+    <string name="domain">The Domain</string>
+    <string name="domainDescription">Situated in a beautiful park-like setting, The Domain features 100 upscale and mainstream retail stores and restaurants, almost half of which are exclusive within the market.</string>
+    <string name="domainMap">"https://www.google.com/maps/search/?api=1&amp;query=The+Domain"</string>
+    <string name="brokenSpoke">The Broken Spoke</string>
+    <string name="brokenSpokeDescription">Live music &amp; boot-scootin\', plus beer &amp; chicken-fried steak since 1964.</string>
+    <string name="brokenSpokeMap">"https://www.google.com/maps/search/?api=1&amp;query=The+Broken+Spoke+Austin"</string>
+    <string name="danceAcrossTexas">Dance Across Texas</string>
+    <string name="danceAcrossDescription">Dance Across Texas is a country western bar featuring one of the biggest dance floors in central texas. Dance the night away to old and new country, cheap drinks, and southern atmosphere.</string>
+    <string name="danceAcrossMap">"https://www.google.com/maps/search/?api=1&amp;query=Dance+Across+Texas+Austin"</string>
+    <string name="womensFed">Women\'s Federation Swing Night</string>
+    <string name="womensFdDescription">The Texas Federation of Women’s Clubs, or for short, the Fed offers Thursday night dance is one of the longest, most well attended weekly swing dance events in the country!</string>
+    <string name="womensMap">"https://www.google.com/maps/search/?api=1&amp;query=The Women's Federation+Austin"</string>
+    <string name="inspiredMovement">Inspired Movement</string>
+    <string name="inspiredDescription">Inspired Movement is the best place to learn Latin dancing in the greater Austin, Texas area. They offer both group and private Latin dance classes in Salsa, Bachata, Kizomba, and Zouk. </string>
+    <string name="inspiredMap">"https://www.google.com/maps/search/?api=1&amp;query=Inspired+Movement+Austin"</string>
+    <string name="capcityComedy">Capitol City Comedy Club</string>
+    <string name="capCityDescription">Snug, old-school comedy club featuring local comedians, national acts &amp; open-mike nights.</string>
+    <string name="capCityMap">"https://www.google.com/maps/search/?api=1&amp;query=Capitol+City+Comedy+Club+Austin"</string>
+    <string name="raineyStreet">Rainey Street</string>
+    <string name="raineyDescription">Rainey showcases renovated houses turned into bungalow bars. Day or night, you\'ll find relaxed bar-goers strolling from bar to food trailer to bar again, often with their dogs in tow looking for a kicked back sip and a bite.</string>
+    <string name="raineyMap">"https://www.google.com/maps/search/?api=1&amp;query=Rainey+Street"</string>
+    <string name="longCenter">The Long Center</string>
+    <string name="longCenterDescription">The Long Center is a community gathering place where creativity happens—a premier performing arts center that enriches lives by connecting audiences and artists.</string>
+    <string name="longMap">"https://www.google.com/maps/search/?api=1&amp;query=The+Long+Center"</string>
+
+</resources>
